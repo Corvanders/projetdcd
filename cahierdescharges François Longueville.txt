@@ -1,0 +1,112 @@
+﻿					Grand’Goule Hamburgés Poitiers
+
+
+
+Projet: 
+
+Réalisé un site pour un super burger de hipsters, qui vient d’ouvrir dans le centre ville de Poitiers. Ambiance jeunes et dynamiques.
+
+
+Liste des fonctions du site : 
+
+1.Effectué une réservation
+2.Noté le site :
+3.Appelé le restaurant directement avec son smartphone
+4.Commandé en ligne 
+5.Payer en ligne
+6.Livraisons
+7.Affiché l’adresse et la localisation du restaurant
+
+
+Arborescence du site: 
+
+
+
+
+
+
+
+
+
+
+Wireframes :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wireframes Smartphones 
+
+
+
+
+Dom de la page des menus 
+
+Légende : Vert = élément dynamique 
+
+
+
+
+
+
+
+
+
+
+Liste des fonctionnalités expliquées :
+
+Effectué une réservation
+
+Vérifie dans la table dédiées aux réservations de la base de données. Que il y’a des places disponibles. Si c’est le cas , validez la réservation.
+
+Noté le site
+
+Intégré le plug in « Google Review widget ».
+
+Appelé le restaurant directement avec son smartphone
+
+Faire un lien en html qui pointe vers un numéro de téléphone .
+Exemple :<a href="tel:+33500000000">Link text</a>
+
+Commandé en ligne 
+
+Intégré plug in uber eats
+
+Payer en ligne
+
+Plug in uber eats
+
+Affiché le plan sur le site : 
+
+Widget google maps .
