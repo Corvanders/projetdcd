@@ -71,6 +71,57 @@ Wireframes Smartphones
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dom de la page des menus 
 
 Légende : Vert = élément dynamique 
